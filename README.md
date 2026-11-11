@@ -5,22 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>BLACK CAPS - Catálogo</title>
-<style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:sans-serif}
-body{background:#000;color:#fff;line-height:1.6;padding-bottom:40px}
-header{background:#111;text-align:center;padding:30px 20px;border-bottom:3px solid #d4af37}
-h1{color:#d4af37;font-size:26px}
-.tag{color:#aaa;font-size:14px;margin-top:8px;letter-spacing:2px}
-.container{padding:20px;max-width:700px;margin:0 auto}
-.precios{background:#1a1a1a;border-radius:10px;padding:20px;text-align:center;margin-bottom:30px}
-.precios h2{color:#d4af37;font-size:18px;margin-bottom:15px}
-.precio{background:#252525;padding:12px;border-radius:8px;margin:8px 0}
-.precio strong{display:block}
-.precio span{color:#d4af37;font-size:20px;font-weight:bold}
-.whatsapp{background:#25d366;color:#000;text-align:center;padding:20px;border-radius:10px;margin-bottom:40px}
-.whatsapp a{color:#fff;font-weight:bold;font-size:20px;text-decoration:none;display:inline-block;margin-top:8px}
-.modelo{margin-bottom:40px;border-bottom:1px solid #222;padding-bottom:30px}
-.modelo h2{font-size:16px;color:#d4af37;margin-bottom:15px;padding-left:8px;border-left:3px solid #d4af37}
+
 .fotos{display:grid;grid-template-columns:1fr 1fr;gap:10px}
 .foto{background:#222;border:2px dashed #444;border-radius:8px;height:100px;display:flex;align-items:center;justify-content:center;color:#888;font-size:12px;text-align:center;padding:8px}
 footer{text-align:center;color:#666;font-size:13px;padding:20px;border-top:1px solid #222;margin-top:20px}
