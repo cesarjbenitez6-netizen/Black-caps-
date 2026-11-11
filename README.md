@@ -1,14 +1,4 @@
 
-<title>BLACK CAPS - Catálogo</title>
-
-.fotos{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-.foto{background:#222;border:2px dashed #444;border-radius:8px;height:100px;display:flex;align-items:center;justify-content:center;color:#888;font-size:12px;text-align:center;padding:8px}
-footer{text-align:center;color:#666;font-size:13px;padding:20px;border-top:1px solid #222;margin-top:20px}
-</style>
-</head>
-<body>
-
-<header>
   <h1>BLACK CAPS</h1>
   <p>CATÁLOGO DE GORRAS</p>
   <div class="tag">• CALIDAD • ACTITUD • ESTILO •</div>
