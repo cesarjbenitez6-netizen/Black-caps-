@@ -1,9 +1,4 @@
-# Black-caps-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>BLACK CAPS - Catálogo</title>
 
 .fotos{display:grid;grid-template-columns:1fr 1fr;gap:10px}
